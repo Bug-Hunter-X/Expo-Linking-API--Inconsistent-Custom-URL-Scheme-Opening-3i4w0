@@ -1,0 +1,1 @@
+This bug occurs when using the Expo `Linking` API to open a URL in a custom browser scheme.  The URL fails to open consistently, sometimes successfully and other times failing silently.  The issue is not consistently reproducible, adding to the difficulty in debugging.
